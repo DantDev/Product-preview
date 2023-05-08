@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/DantDev/Product-preview)
-- Live Site URL: [](https://sweet-puffpuff-f79ddf.netlify.app/)
+- Solution URL: [GitHub](https://github.com/DantDev/Product-preview)
+- Live Site URL: [Live Site](https://sweet-puffpuff-f79ddf.netlify.app/)
 
 ## My process
 
