@@ -6,8 +6,8 @@ function App() {
 
 return (
   <div className='container'>
-      <img className='image card--img' src={prodImgDesktop} />
-      <img className='image card--img-2' src={prodImgMobile} />
+      <img className='image card--img' src={prodImgDesktop} alt='Photo of a Perfume bottle'/>
+      <img className='image card--img-2' src={prodImgMobile} alt='Photo of a Perfume bottle'/>
       <div className='card--info'>
         <p className='card--intro'>PERFUME</p>
         <h1 className='card--title'>Gabrielle Essence Eau De Parfum</h1>
